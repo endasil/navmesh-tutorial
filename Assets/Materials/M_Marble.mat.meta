@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f400e4927d0f13e419b66dc50f8d6ca6
+timeCreated: 1465917705
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65136
+  packageName: Prototype Materials
+  packageVersion: 1.0
+  assetPath: Assets/Prototype Materials/Materials/M_Marble.mat
+  uploadId: 122760

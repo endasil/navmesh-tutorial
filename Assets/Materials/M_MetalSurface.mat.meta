@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2893db704c012da43b3bb492470e32cd
+timeCreated: 1465920815
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65136
+  packageName: Prototype Materials
+  packageVersion: 1.0
+  assetPath: Assets/Prototype Materials/Materials/M_MetalSurface.mat
+  uploadId: 122760

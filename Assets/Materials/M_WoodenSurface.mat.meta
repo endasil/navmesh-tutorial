@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9018b4d6f686e446b671a85ef091af9
+timeCreated: 1465923163
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 65136
+  packageName: Prototype Materials
+  packageVersion: 1.0
+  assetPath: Assets/Prototype Materials/Materials/M_WoodenSurface.mat
+  uploadId: 122760
